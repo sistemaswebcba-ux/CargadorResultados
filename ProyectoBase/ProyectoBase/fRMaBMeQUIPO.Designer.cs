@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fRMaBMeQUIPO));
             this.Grupo = new System.Windows.Forms.GroupBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txt_Foto = new System.Windows.Forms.TextBox();
             this.cmb_Categoria = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.txtCodigo = new System.Windows.Forms.TextBox();
@@ -44,8 +46,6 @@
             this.btnAbrir = new System.Windows.Forms.ToolStripButton();
             this.btnImprimir = new System.Windows.Forms.ToolStripButton();
             this.btnSalir = new System.Windows.Forms.ToolStripButton();
-            this.txt_Foto = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.Grupo.SuspendLayout();
             this.BarraBotones.SuspendLayout();
             this.SuspendLayout();
@@ -62,10 +62,26 @@
             this.Grupo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Grupo.Location = new System.Drawing.Point(12, 69);
             this.Grupo.Name = "Grupo";
-            this.Grupo.Size = new System.Drawing.Size(400, 161);
+            this.Grupo.Size = new System.Drawing.Size(400, 150);
             this.Grupo.TabIndex = 20;
             this.Grupo.TabStop = false;
             this.Grupo.Text = "Información del equipo";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(19, 70);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(36, 17);
+            this.label2.TabIndex = 24;
+            this.label2.Text = "Foto";
+            // 
+            // txt_Foto
+            // 
+            this.txt_Foto.Location = new System.Drawing.Point(97, 70);
+            this.txt_Foto.Name = "txt_Foto";
+            this.txt_Foto.Size = new System.Drawing.Size(287, 23);
+            this.txt_Foto.TabIndex = 23;
             // 
             // cmb_Categoria
             // 
@@ -123,7 +139,7 @@
             this.btnSalir});
             this.BarraBotones.Location = new System.Drawing.Point(0, 0);
             this.BarraBotones.Name = "BarraBotones";
-            this.BarraBotones.Size = new System.Drawing.Size(466, 39);
+            this.BarraBotones.Size = new System.Drawing.Size(428, 39);
             this.BarraBotones.TabIndex = 16;
             this.BarraBotones.Text = "toolStrip1";
             // 
@@ -208,27 +224,11 @@
             this.btnSalir.Text = "Salir";
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
-            // txt_Foto
-            // 
-            this.txt_Foto.Location = new System.Drawing.Point(97, 70);
-            this.txt_Foto.Name = "txt_Foto";
-            this.txt_Foto.Size = new System.Drawing.Size(287, 23);
-            this.txt_Foto.TabIndex = 23;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(19, 70);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(36, 17);
-            this.label2.TabIndex = 24;
-            this.label2.Text = "Foto";
-            // 
             // fRMaBMeQUIPO
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(466, 305);
+            this.ClientSize = new System.Drawing.Size(428, 221);
             this.Controls.Add(this.Grupo);
             this.Controls.Add(this.BarraBotones);
             this.Name = "fRMaBMeQUIPO";

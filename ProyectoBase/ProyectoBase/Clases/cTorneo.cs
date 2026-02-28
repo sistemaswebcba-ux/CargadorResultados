@@ -36,6 +36,7 @@ namespace ProyectoBase.Clases
 
         public DataTable GetTorneos()
         {
+            
             //string sql = "select * from Torneo WHERE FINALIZO ='N'";
             string sql = " select  IdTorneo,(Torneo + ' ' + Temporada) as Campeonato ";
             sql = sql + " from Torneo WHERE FINALIZO ='N' ";

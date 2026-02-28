@@ -42,6 +42,8 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -67,6 +69,11 @@
     <Compile Include="Clases\cMensaje.cs" />
     <Compile Include="Clases\cTabla.cs" />
     <Compile Include="Clases\cTorneo.cs" />
+    <Compile Include="Connected Services\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="FrmAbmBarrio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -249,6 +256,7 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.config" />
+    <None Include="Connected Services\ServiceReference1\Service.wsdl" />
     <None Include="Iconos\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
     <None Include="Iconos\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="Iconos\obj\x86\Debug\GenerateResource.read.1.tlog" />
@@ -256,6 +264,7 @@
     <None Include="Iconos\obj\x86\Debug\RdlCompile.cache" />
     <None Include="Iconos\obj\x86\Debug\RdlCompile.compiled" />
     <None Include="Iconos\obj\x86\Debug\ResolveAssemblyReference.cache" />
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -269,6 +278,13 @@
   <ItemGroup>
     <Content Include="bin\Debug\ProyectoBase.exe" />
     <Content Include="bin\Debug\ProyectoBase.pdb" />
+    <None Include="Connected Services\ServiceReference1\Service.disco" />
+    <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceReference1\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
     <Content Include="Iconos\add.ico" />
     <Content Include="Iconos\AUTO.png" />
     <Content Include="Iconos\AUTO2.png" />
@@ -316,6 +332,12 @@
     <Content Include="Iconos\tv.ico" />
     <Content Include="Iconos\Ventas.ico" />
     <Content Include="Iconos\zoom.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiceReference1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -47,6 +47,7 @@ namespace ProyectoBase
             cTorneo torneo = new cTorneo();
             DataTable trdo = torneo.GetTorneos();
             fun.LlenarComboDatatable(cmbTorneo, trdo, "Campeonato", "IdTorneo");
+         
         }
 
         private void btnCargarEquipos_Click(object sender, EventArgs e)

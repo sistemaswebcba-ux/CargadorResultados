@@ -13,12 +13,16 @@ namespace ProyectoBase.Clases
     {
         public static void ExecutarNonQuery(string sql)
         {
-            SqlHelper.ExecuteNonQuery(cConexion.Cadenacon(), CommandType.Text, sql);
+            ServiceReference1.ServiceSoapClient s = new ServiceReference1.ServiceSoapClient();
+            s.GrabarDatos(sql);
+           // SqlHelper.ExecuteNonQuery(cConexion.Cadenacon(), CommandType.Text, sql);
         }
 
         public static DataTable ExecuteDataTable(string sql)
         {
-            return SqlHelper.ExecuteDataset(cConexion.Cadenacon(), CommandType.Text, sql).Tables[0];
+            ServiceReference1.ServiceSoapClient s = new ServiceReference1.ServiceSoapClient();
+            // return SqlHelper.ExecuteDataset(cConexion.Cadenacon(), CommandType.Text, sql).Tables[0];
+            return s.RetornarTabla(sql);
         }
 
         public static string ExecuteScalar(string sql, string Campo)

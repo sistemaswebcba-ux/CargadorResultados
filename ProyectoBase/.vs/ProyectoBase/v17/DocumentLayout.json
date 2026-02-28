@@ -1,57 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\",
+  "WorkspaceRootPath": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\clases\\cequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\clases\\cequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|d:\\programacion 2\\cargarodr web resultados\\cargadorresultados\\proyectobase\\proyectobase\\clases\\cdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\clases\\cdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\frmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\frmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\frmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\frmpartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmpartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|d:\\programacion\\ft2023gut\\ft windows\\ftw\\proyectobase\\proyectobase\\frmtabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmtabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\frmcreartorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\frmcreartorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmcreartorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\frmcreartorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\frmcreartorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmcreartorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\clases\\ctorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\clases\\ctorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\frmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\frmabmequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmabmequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\clases\\cequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\clases\\cequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\frmpartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmpartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\frmtabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmtabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\proyectobase\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\proyectobase\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE7A9214-72F4-4500-B7B1-8CB1208D758D}|ProyectoBase\\ProyectoBase.csproj|solutionrelative:proyectobase\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBase\\Report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     }
   ],
@@ -62,125 +78,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "cConexion.cs",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Clases\\cConexion.cs",
-              "RelativeDocumentMoniker": "ProyectoBase\\Clases\\cConexion.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Clases\\cConexion.cs",
-              "RelativeToolTip": "ProyectoBase\\Clases\\cConexion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "cDb.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Clases\\cDb.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\Clases\\cDb.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Clases\\cDb.cs",
+              "RelativeToolTip": "ProyectoBase\\Clases\\cDb.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T18:24:30.034Z",
+              "WhenOpened": "2026-02-28T19:18:57.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cConexion.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Clases\\cConexion.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\Clases\\cConexion.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Clases\\cConexion.cs",
+              "RelativeToolTip": "ProyectoBase\\Clases\\cConexion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:24:30.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCrearTorneo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmCrearTorneo.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\FrmCrearTorneo.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmCrearTorneo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBase\\FrmCrearTorneo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:17:04.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCrearTorneo.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmCrearTorneo.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\FrmCrearTorneo.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmCrearTorneo.cs",
+              "RelativeToolTip": "ProyectoBase\\FrmCrearTorneo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:17:12.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cTorneo.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Clases\\cTorneo.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\Clases\\cTorneo.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Clases\\cTorneo.cs",
+              "RelativeToolTip": "ProyectoBase\\Clases\\cTorneo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:18:40.025Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\Program.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Program.cs",
+              "RelativeToolTip": "ProyectoBase\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:20:42.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fRMaBMeQUIPO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\fRMaBMeQUIPO.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\fRMaBMeQUIPO.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\fRMaBMeQUIPO.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBase\\fRMaBMeQUIPO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:59:34.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FrmFixture.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmFixture.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmFixture.cs",
               "RelativeDocumentMoniker": "ProyectoBase\\FrmFixture.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmFixture.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmFixture.cs [Dise\u00F1o]",
               "RelativeToolTip": "ProyectoBase\\FrmFixture.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T15:31:09.701Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-03-09T15:31:09.701Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmFixture.cs",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmFixture.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmFixture.cs",
               "RelativeDocumentMoniker": "ProyectoBase\\FrmFixture.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmFixture.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmFixture.cs",
               "RelativeToolTip": "ProyectoBase\\FrmFixture.cs",
-              "ViewState": "AgIAAAMBAAAAAAAAAAAgwAsBAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T15:31:13.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "cEquipo.cs",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Clases\\cEquipo.cs",
-              "RelativeDocumentMoniker": "ProyectoBase\\Clases\\cEquipo.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Clases\\cEquipo.cs",
-              "RelativeToolTip": "ProyectoBase\\Clases\\cEquipo.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T15:37:54.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmPartido.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmPartido.cs",
-              "RelativeDocumentMoniker": "ProyectoBase\\FrmPartido.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmPartido.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoBase\\FrmPartido.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T19:02:26.097Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmTabla.cs",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmTabla.cs",
-              "RelativeDocumentMoniker": "ProyectoBase\\FrmTabla.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmTabla.cs",
-              "RelativeToolTip": "ProyectoBase\\FrmTabla.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAswDgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T19:02:45.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmCrearTorneo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmCrearTorneo.cs",
-              "RelativeDocumentMoniker": "ProyectoBase\\FrmCrearTorneo.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmCrearTorneo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoBase\\FrmCrearTorneo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-03-09T15:17:04.581Z"
+              "WhenOpened": "2024-03-09T15:31:13.202Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FrmCrearTorneo.cs",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmCrearTorneo.cs",
-              "RelativeDocumentMoniker": "ProyectoBase\\FrmCrearTorneo.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmCrearTorneo.cs",
-              "RelativeToolTip": "ProyectoBase\\FrmCrearTorneo.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-03-09T15:17:12.657Z"
+              "Title": "cEquipo.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Clases\\cEquipo.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\Clases\\cEquipo.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Clases\\cEquipo.cs",
+              "RelativeToolTip": "ProyectoBase\\Clases\\cEquipo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:37:54.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "FrmPartido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmPartido.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\FrmPartido.cs",
+              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmPartido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmPartido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:02:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTabla.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmTabla.cs",
+              "RelativeDocumentMoniker": "ProyectoBase\\FrmTabla.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmTabla.cs",
+              "RelativeToolTip": "ProyectoBase\\FrmTabla.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:02:45.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Principal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Principal.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Principal.cs",
               "RelativeDocumentMoniker": "ProyectoBase\\Principal.cs",
               "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Principal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoBase\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Principal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
               "WhenOpened": "2024-03-09T15:16:25.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Principal.cs",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Principal.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Principal.cs",
               "RelativeDocumentMoniker": "ProyectoBase\\Principal.cs",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Principal.cs",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Principal.cs",
               "RelativeToolTip": "ProyectoBase\\Principal.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAkwG0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -188,38 +246,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "app.config",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\app.config",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\app.config",
               "RelativeDocumentMoniker": "ProyectoBase\\app.config",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\app.config",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\app.config",
               "RelativeToolTip": "ProyectoBase\\app.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-17T18:23:58.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T18:23:58.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "FrmBase.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmBase.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\FrmBase.cs",
               "RelativeDocumentMoniker": "ProyectoBase\\FrmBase.cs",
               "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmBase.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoBase\\FrmBase.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\FrmBase.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
               "WhenOpened": "2023-09-10T16:28:22.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Report1.rdlc",
-              "DocumentMoniker": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Report1.rdlc",
+              "DocumentIndex": 16,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Report1.rdlc",
               "RelativeDocumentMoniker": "ProyectoBase\\Report1.rdlc",
-              "ToolTip": "D:\\PROGRAMACION\\FT2023GUT\\FT WINDOWS\\ftw\\ProyectoBase\\ProyectoBase\\Report1.rdlc",
-              "RelativeToolTip": "ProyectoBase\\Report1.rdlc",
+              "ToolTip": "D:\\PROGRAMACION 2\\Cargarodr Web Resultados\\CargadorResultados\\ProyectoBase\\ProyectoBase\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBase\\Report1.rdlc [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
-              "WhenOpened": "2024-03-09T15:09:07.652Z"
+              "WhenOpened": "2024-03-09T15:09:07.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -15,7 +15,7 @@ namespace ProyectoBase
         {   
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //  Application.Run(new FrmTabla ());
+           //   Application.Run(new FrmCrearTorneo());
             Application.Run(new Principal());
         }
     }

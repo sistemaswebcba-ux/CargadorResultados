@@ -39,6 +39,9 @@
             this.btnparche = new System.Windows.Forms.Button();
             this.btnTodos = new System.Windows.Forms.Button();
             this.Grilla2 = new System.Windows.Forms.DataGridView();
+            this.IdEquipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txttorneo = new System.Windows.Forms.TextBox();
@@ -46,9 +49,6 @@
             this.Grilla1 = new System.Windows.Forms.DataGridView();
             this.Label2 = new System.Windows.Forms.Label();
             this.cmbcategoria = new System.Windows.Forms.ComboBox();
-            this.IdEquipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Grilla2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Grilla1)).BeginInit();
@@ -76,7 +76,7 @@
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(727, 530);
+            this.groupBox1.Size = new System.Drawing.Size(727, 538);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Información del torneo";
@@ -111,7 +111,7 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(545, 482);
+            this.btnGuardar.Location = new System.Drawing.Point(652, 488);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(75, 42);
             this.btnGuardar.TabIndex = 24;
@@ -177,6 +177,21 @@
             this.Grilla2.Size = new System.Drawing.Size(344, 353);
             this.Grilla2.TabIndex = 18;
             // 
+            // IdEquipo
+            // 
+            this.IdEquipo.HeaderText = "Column1";
+            this.IdEquipo.Name = "IdEquipo";
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Column1";
+            this.Column1.Name = "Column1";
+            // 
+            // Column2
+            // 
+            this.Column2.HeaderText = "Column2";
+            this.Column2.Name = "Column2";
+            // 
             // Label3
             // 
             this.Label3.AutoSize = true;
@@ -234,21 +249,6 @@
             this.cmbcategoria.Name = "cmbcategoria";
             this.cmbcategoria.Size = new System.Drawing.Size(180, 24);
             this.cmbcategoria.TabIndex = 1;
-            // 
-            // IdEquipo
-            // 
-            this.IdEquipo.HeaderText = "Column1";
-            this.IdEquipo.Name = "IdEquipo";
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "Column1";
-            this.Column1.Name = "Column1";
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "Column2";
-            this.Column2.Name = "Column2";
             // 
             // FrmCrearTorneo
             // 
